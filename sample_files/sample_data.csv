@@ -1,0 +1,9 @@
+Student_ID,File_Name,Extension,Size_KB,File_Path
+STU001,Document1,pdf,2048,/documents/
+STU002,Image1,jpg,1024,/images/
+STU003,Video1,mp4,5120,/videos/
+STU004,Music1,mp3,4096,/music/
+STU005,Document2,docx,512,/documents/
+STU006,Image2,png,2560,/images/
+STU007,Code1,cpp,128,/source/
+STU008,Code2,py,96,/source/
